@@ -27,11 +27,11 @@
 | conversions            | n/a                 |
 
 
-|Name                   |Path                                             |Status| 
-|--------|------------------------------------|---------------|
+|Name                    |Path                                            |Status     | 
+|------------------------|------------------------------------------------|-----------|
 |intro1                  |exercises/intro/intro1.rs                       |Done|
 |intro2                  |exercises/intro/intro2.rs                       |Done|
-|variables1              |exercises/variables/variables1.rs              |Done|
+|variables1              |exercises/variables/variables1.rs               |Done|
 |variables2              |exercises/variables/variables2.rs               |Done|
 |variables3              |exercises/variables/variables3.rs               |Done|
 |variables4              |exercises/variables/variables4.rs               |Done|
