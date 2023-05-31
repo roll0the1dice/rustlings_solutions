@@ -26,7 +26,7 @@
 | clippy                 | §21.4               |
 | conversions            | n/a                 |
 
-
+# rustlings verify
 |Name                    |Path                                            |Status     | 
 |------------------------|------------------------------------------------|-----------|
 |intro1                  |exercises/intro/intro1.rs                       |Done|
